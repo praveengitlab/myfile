@@ -1,3 +1,6 @@
 elcome to git
+<<<<<<< HEAD
 git commit
 last commit
+=======
+>>>>>>> parent of 58fd329 (sec)
